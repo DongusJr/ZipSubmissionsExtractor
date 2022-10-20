@@ -1,0 +1,6 @@
+This file will be generated under each folder extracted from the zip.
+It is useful if you want to generate a template of the feedback.
+
+===========
+# 100/100 #
+===========
